@@ -1,0 +1,27 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "andysal"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Meetup Milano",
+      "Country": "Italy",
+      "Url": "https://www.azuremeetupmilano.it/",
+      "SessionizeApiId": "",
+      "Logo": {
+        "Description": "Global Azure 2024 Milano",
+        "File": "AzureMilano.jpg"
+      },
+      "Locations": [
+        {
+          "Name": "Microsoft House, Milano",
+          "Address": "Viale Pasubio 21, 20154 Milano MI, Italy",
+          "Latitude": 45.4421, 
+          "Longitude": 9.2881
+        }
+      ]
+    }
+  }
+  
