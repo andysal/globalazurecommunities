@@ -1,0 +1,19 @@
+{
+    "ValidMaintainers": {
+      "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+      "GitHubHandles": [
+        "andysal"
+      ]
+    },
+    "CommunityInfo": {
+      "Name": "Azure Meetup Milano",
+      "Country": "Italy",
+      "Url": "https://www.azuremeetupmilano.it/",
+      "SessionizeApiId": "",
+      "Logo": {
+        "Description": "Global Azure Virtual 2021",
+        "File": "AzureMilano.jpg"
+      }
+    }
+  }
+  

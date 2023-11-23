@@ -1,17 +1,14 @@
 
-# Global Azure Milano 2024 by Azure Meetup Milano
+# Global Azure Virtual 2021 by Azure Meetup Milano
 
 ![Azure Meetup Milano](AzureMilano.jpg)
 
 We are an Azure user group based in Milan, Italy. Join our Community: https://www.azuremeetupmilano.it/
 
-Call for Speakers wil open in January
-
-
 Resume information:
-* 📅 April, 18 2024
-* 🏠 Microsoft House, Milano
-* 🎫 Get your FREE ticket on ["Eventbrite"](https://www.meetup.com/vantug-vancouver-technology-user-group-meetup/events/) from February   
+* 📅 April 16, 2021
+* 🏠 Online
+* 🎫 Get your FREE ticket on ["Eventbrite"](https://www.eventbrite.it/e/biglietti-global-azure-virtual-italy-2021-137768913529) from February   
 * 💶 Sponsors - We are looking for sponsors. Reach out to the organization team
 
 
@@ -19,4 +16,3 @@ If you have any questions, feedback or thoughts, please reach out to the Communi
 
 * Andrea Saltarello [MVP](https://mvp.microsoft.com/en-US/MVP/profile/7d22e166-3c9a-e411-93f2-9cb65495d3c4) 
 * Enos Recanati [Profile](https://www.azuremeetupmilano.it/members/3425/Enos-Recanati)
-* Lorenzo Barbieri [Profile](https://www.azuremeetupmilano.it/members/6288/Lorenzo-Barbieri)
